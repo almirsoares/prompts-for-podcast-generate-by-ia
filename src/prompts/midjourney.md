@@ -1,0 +1,1 @@
+Logo design for a tech podcast called "Tá no Script" — vibrant color palette with purple, blue, and yellow tones. Include visual elements like code brackets {}, a terminal prompt >, and monospaced typography. Modern, minimalist, high-tech, youth-friendly aesthetic. Vector style, flat design, centered composition, transparent background --v 5 --style 4b
